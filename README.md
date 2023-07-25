@@ -4,12 +4,7 @@
 - 🌱 Estudando: Microsserviços e Menssageria
 - 😄 Pronome: ele/dele
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=VictorZogbi&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=VictorZogbi&show_icons=true" />
-</picture>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZogbi&layout=compact)
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorZogbi&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorZogbi&layout=compact&langs_count=16&theme=tokyonight"/>
+</div>
